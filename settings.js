@@ -24,21 +24,21 @@ global.APIKeys = {
 global.owner = ['6283819082780']
 global.premium = ['6283819082780']
 global.ownernomer = '6283819082780'
-global.ownername = 'Ryutenzo'
-global.botname = 'Lucyfxr'
-global.footer = 'Lucyfxr Devils.'
-global.ig = 'https://github.com/Ryutenz'
-global.region = 'India, NorthEast, Indonesia'
-global.sc = 'https://github.com/Ryutenz/LucyfxrMD'
-global.myweb = 'http://botwa.rf.gd/'
-global.packname = 'Ryutenzo'
+global.ownername = 'babibot'
+global.botname = 'babibot'
+global.footer = 'babibot froza.'
+global.ig = 'https://github.com/VERDIBOTZ1'
+global.region = 'India, NETESA, Indonesia'
+global.sc = 'https://github.com/VERDIBOTZ1/pacrituruv3'
+global.myweb = 'http://botwa.rf.d/'
+global.packname = 'MARIN KITAGAWA'
 global.author = 'wa.me/6283819082780'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    success: 'Sucess ✓',
+    admin: 'buat  Admin yang sange!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
