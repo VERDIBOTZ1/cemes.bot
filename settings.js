@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6283819082780']
-global.premium = ['6283819082780']
-global.ownernomer = '6283819082780'
-global.ownername = 'babibot'
-global.botname = 'babibot'
+global.owner = ['6285706735450']
+global.premium = ['6283869803330']
+global.ownernomer = '6285706735450'
+global.ownername = 'VERDI NCS'
+global.botname = 'VRJ BOTZ'
 global.footer = 'babibot froza.'
 global.ig = 'https://github.com/VERDIBOTZ1'
 global.region = 'India, NETESA, Indonesia'
 global.sc = 'https://github.com/VERDIBOTZ1/pacrituruv3'
 global.myweb = 'http://botwa.rf.d/'
 global.packname = 'MARIN KITAGAWA'
-global.author = 'wa.me/6283819082780'
+global.author = 'wa.me/6285706735450'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
